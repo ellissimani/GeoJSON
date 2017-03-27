@@ -10,7 +10,10 @@
         "AWATER10": 2163632,
         "Esri_Diversity_Index": "38%",
         "Zip Code": "98136",
-        "Latino": ""
+        "Latino": "x",
+        "Black": "x",
+        "White": "x",
+        "Asian": "x"
       },
       "geometry": {
         "type": "Polygon",
@@ -140,7 +143,8 @@
         "ALAND10": 8812564,
         "AWATER10": 4545367,
         "Zip Code": "98144",
-        "Esri_Diversity_Index": "79%"
+        "Esri_Diversity_Index": "79%",
+        "Latino": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -346,7 +350,8 @@
         "ALAND10": 5178198,
         "AWATER10": 1091119,
         "Zip Code": "98109",
-        "Esri_Diversity_Index": "46%"
+        "Esri_Diversity_Index": "46%",
+        "White": ""
       },
       "geometry": {
         "type": "Polygon",
