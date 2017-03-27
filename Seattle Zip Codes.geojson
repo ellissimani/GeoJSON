@@ -10,10 +10,10 @@
         "AWATER10": 2163632,
         "Esri_Diversity_Index": "38%",
         "Zip Code": "98136",
-        "Latino": "x",
-        "Black": "x",
-        "White": "x",
-        "Asian": "x"
+        "Latino": 5,
+        "Black": 5,
+        "White": 5,
+        "Asian": 5
       },
       "geometry": {
         "type": "Polygon",
@@ -351,7 +351,8 @@
         "AWATER10": 1091119,
         "Zip Code": "98109",
         "Esri_Diversity_Index": "46%",
-        "White": ""
+        "White": "",
+        "Latino": ""
       },
       "geometry": {
         "type": "Polygon",
